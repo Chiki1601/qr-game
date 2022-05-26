@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background: #000;
+}
+
+h1 {
+  font-size: 0.7em;
+}
+
+a {
+  color: #fff;
+  font-size: 0.7em;
+}
+
+.tag {
+  margin: 2em 0;
+  color: hotpink;
+}
+
+canvas {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 90vmin;
+  max-height: 90vmin;
+}
